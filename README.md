@@ -19,7 +19,7 @@
 - 2022, 한국정보기술연구원 차세대보안리더 양성 프로그램 BEST OF THE BEST 11기 참여
   - 보안제품개발트랙
   - "ADS를 이용한 파일정보 관리장치 및 방법" 특허 출원
-  - BEST 10 선정 (과학기술정보통신부 인증서)
+  - BEST 10 선정 (과학기술정보통신부 인증서 수상)
 
 ## 스킬 Skills
 ### 📋Languages
@@ -60,14 +60,12 @@
   <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </div>
 
-
-
 ## 프로젝트 Projects
 | Project name                   | Description                    | Technologies Used | Role |
 |--------------------------------|--------------------------------|------|------|
 | [문서형 악성코드 탐지 솔루션](https://github.com/ehn1225/No-Spear_Client) | Unknown 문서형 악성코드 탐지 솔루션 | MFC, C++, Node.js, Windows Kernel Driver | 클라이언트 개발 | 
-
-
+| [SNUST_Notification_Collector](https://github.com/ehn1225/SNUST_Notification_Collector) | 서울과학기술대학교 공지사항 파서 & 뷰어 | Java, Docker, Node.js, Web | 개인 프로젝트 | 
+| [Projects](https://github.com/ehn1225/Project) | 토이 프로젝트 모음 | Java, C/C++, VB.Net, Arduino | 개인 프로젝트 |
 
 ## 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehn1225&show_icons=true&theme=radical)
