@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-#### 안녕하세요. 일상 생활 속의 불편함을 프로그래밍을 통해 편리하게 만드는 개발자 이예찬 입니다.
+### 안녕하세요. 일상 생활 속의 불편함을 프로그래밍을 통해 편리하게 만드는 개발자 이예찬 입니다.
 
 ## 흥미 Interest
 - 일상 생활 속에서 겪는 불편함을 프로그래밍을 통해 해결하는 것을 좋아합니다.
@@ -61,11 +61,12 @@
 </div>
 
 ## 프로젝트 Projects
-| Project name                   | Description                    | Technologies Used | Role |
-|--------------------------------|--------------------------------|------|------|
-| [문서형 악성코드 탐지 솔루션](https://github.com/ehn1225/No-Spear_Client) | Unknown 문서형 악성코드 탐지 솔루션 | MFC, C++, Node.js, Windows Kernel Driver | 클라이언트 개발 | 
-| [SNUST_Notification_Collector](https://github.com/ehn1225/SNUST_Notification_Collector) | 서울과학기술대학교 공지사항 파서 & 뷰어 | Java, Docker, Node.js, Web | 개인 프로젝트 | 
-| [Projects](https://github.com/ehn1225/Projects) | 토이 프로젝트 모음 | Java, C/C++, VB.Net, Arduino | 개인 프로젝트 |
+| Project name                   | Description                    | Technologies Used |
+|--------------------------------|--------------------------------|------|
+| [문서형 악성코드 탐지 솔루션](https://github.com/ehn1225/No-Spear_Client) | Unknown 문서형 악성코드 탐지 솔루션 | MFC, C++, Node.js, Windows Kernel Driver |
+| [SNUST_Notification_Collector](https://github.com/ehn1225/SNUST_Notification_Collector) | 서울과학기술대학교 공지사항 파서 & 웹 뷰어 | Java, Docker, Node.js, Web |
+| [Video Format Converter](https://github.com/ehn1225/VideoFormatConverter) <br> [Video Cartoonizer](https://github.com/ehn1225/VideoCartoonizer) <br> [Simple AR](https://github.com/ehn1225/OpenCV_SimpleAR) <br> [YOLO를 이용한 개인 비식별화](https://github.com/ehn1225/Video_De-identification) | Computer Vision 개인 프로젝트 |Python, OpenCV|
+| [Projects](https://github.com/ehn1225/Projects) | 토이 프로젝트 모음 | Java, C/C++, VB.Net, Arduino |
 
 ## 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehn1225&show_icons=true&theme=radical)
