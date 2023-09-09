@@ -65,7 +65,7 @@
 |--------------------------------|--------------------------------|------|------|
 | [문서형 악성코드 탐지 솔루션](https://github.com/ehn1225/No-Spear_Client) | Unknown 문서형 악성코드 탐지 솔루션 | MFC, C++, Node.js, Windows Kernel Driver | 클라이언트 개발 | 
 | [SNUST_Notification_Collector](https://github.com/ehn1225/SNUST_Notification_Collector) | 서울과학기술대학교 공지사항 파서 & 뷰어 | Java, Docker, Node.js, Web | 개인 프로젝트 | 
-| [Projects](https://github.com/ehn1225/Project) | 토이 프로젝트 모음 | Java, C/C++, VB.Net, Arduino | 개인 프로젝트 |
+| [Projects](https://github.com/ehn1225/Projects) | 토이 프로젝트 모음 | Java, C/C++, VB.Net, Arduino | 개인 프로젝트 |
 
 ## 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehn1225&show_icons=true&theme=radical)
