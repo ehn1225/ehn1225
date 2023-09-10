@@ -69,5 +69,5 @@
 | [Projects](https://github.com/ehn1225/Projects) | Toy 프로젝트 모음 | Java, C/C++, VB.Net, Arduino |
 
 ## 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehn1225&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehn1225&show_icons=true&theme=radical&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehn1225&layout=compact&theme=radical&exclude_repo=NLP,cv_tutorial)
