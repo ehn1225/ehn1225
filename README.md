@@ -67,7 +67,7 @@
 | [SNUST_Notification_Collector](https://github.com/ehn1225/SNUST_Notification_Collector) | 서울과학기술대학교 공지사항 파서 & 웹 뷰어 | Java, Docker, Node.js, Web |
 | [Video Format Converter](https://github.com/ehn1225/VideoFormatConverter) <br> [Video Cartoonizer](https://github.com/ehn1225/VideoCartoonizer) <br> [Simple AR](https://github.com/ehn1225/OpenCV_SimpleAR) <br> [YOLO를 이용한 개인 비식별화](https://github.com/ehn1225/Video_De-identification) | Computer Vision 개인 프로젝트 |Python, OpenCV|
 | [Projects](https://github.com/ehn1225/Projects) | Toy 프로젝트 모음 | Java, C/C++, VB.Net, Arduino |
-| [Arduino_Codes](https://github.com/ehn1225/Arduino_Codes) | 교육봉사 프로그램에서 사용한 아두이노 코드 | Arduino C/C++, |
+| [Arduino_Codes](https://github.com/ehn1225/Arduino_Codes) | 교육봉사 프로그램에서 사용한 아두이노 코드 | Arduino C/C++ |
 
 
 ## 
