@@ -67,7 +67,7 @@
 | [ARP Spoofing](https://github.com/ehn1225/ARP_MITM) <br> [Memory Allocator](https://github.com/ehn1225/Balloc) <br> [Deauth Attack](https://github.com/ehn1225/Deauth_Attack) <br> [Netfilter 1 Million](https://github.com/ehn1225/Netfilter_1M/) <br> [RSA Algorithm](https://github.com/ehn1225/BoB/tree/main/RSA) <br> [기타 과제들](https://github.com/ehn1225/BoB) | BOB 과제 모음| C/C++, netfilter, openssl, pcap |
 | [Projects](https://github.com/ehn1225/Projects) | Toy 프로젝트 모음 | Java, C/C++, VB.Net, Arduino |
 | [Arduino_Codes](https://github.com/ehn1225/Arduino_Codes) | 교육봉사 프로그램에서 사용한 아두이노 코드 | Arduino C/C++ |
-| [System Programming](https://github.com/ehn1225/System_Programming) | 2019년 2학기 UNIX System Call 학습 자료 | POSIX API / C/C++ |
+| [System Programming](https://github.com/ehn1225/System_Programming) | 2019년 2학기 UNIX System Call 학습 자료 | POSIX API, C/C++ |
 
 ## 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehn1225&show_icons=true&theme=radical&hide=issues)
