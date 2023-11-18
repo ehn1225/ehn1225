@@ -63,11 +63,16 @@
 |--------------------------------|--------------------------------|------|
 | [문서형 악성코드 탐지 솔루션](https://github.com/ehn1225/No-Spear_Client) | Unknown 문서형 악성코드 탐지 솔루션(클라이언트) | MFC, C++, Windows Kernel Driver |
 | [SNUST_Notification_Collector](https://github.com/ehn1225/SNUST_Notification_Collector) | 서울과학기술대학교 공지사항 파서 & 웹 뷰어 | Java, Docker, Node.js, Web |
-| [Video Format Converter](https://github.com/ehn1225/VideoFormatConverter) <br> [Video Cartoonizer](https://github.com/ehn1225/VideoCartoonizer) <br> [Simple AR](https://github.com/ehn1225/OpenCV_SimpleAR) <br> [YOLO를 이용한 개인 비식별화](https://github.com/ehn1225/Video_De-identification) | Computer Vision 개인 프로젝트 |Python, OpenCV|
-| [ARP Spoofing](https://github.com/ehn1225/ARP_MITM) <br> [Memory Allocator](https://github.com/ehn1225/Balloc) <br> [Deauth Attack](https://github.com/ehn1225/Deauth_Attack) <br> [Netfilter 1 Million](https://github.com/ehn1225/Netfilter_1M/) <br> [RSA Algorithm](https://github.com/ehn1225/BoB/tree/main/RSA) <br> [기타 과제들](https://github.com/ehn1225/BoB) | BOB 과제 모음| C/C++, netfilter, openssl, pcap |
 | [Projects](https://github.com/ehn1225/Projects) | Toy 프로젝트 모음 | Java, C/C++, VB.Net, Arduino |
+
+## 학습 Studies
+| Subject name                   | Description                    | Technologies Used |
+|--------------------------------|--------------------------------|------|
+| [Video Format Converter](https://github.com/ehn1225/VideoFormatConverter) <br> [Video Cartoonizer](https://github.com/ehn1225/VideoCartoonizer) <br> [Simple AR](https://github.com/ehn1225/OpenCV_SimpleAR) <br> [YOLO를 이용한 개인 비식별화](https://github.com/ehn1225/Video_De-identification) | Computer Vision 개인 프로젝트 |Python, OpenCV|
+| [ARP Spoofing](https://github.com/ehn1225/ARP_MITM) <br> [Memory Allocator](https://github.com/ehn1225/Balloc) <br> [Deauth Attack](https://github.com/ehn1225/Deauth_Attack) <br> [Netfilter 1 Million](https://github.com/ehn1225/Netfilter_1M/) <br> [RSA Algorithm](https://github.com/ehn1225/BoB/tree/main/RSA) <br> [기타 BoB 과제](https://github.com/ehn1225/BoB) | BOB 과제 모음| C/C++, netfilter, openssl, pcap |
 | [Arduino_Codes](https://github.com/ehn1225/Arduino_Codes) | 교육봉사 프로그램에서 사용한 아두이노 코드 | Arduino C/C++ |
 | [System Programming](https://github.com/ehn1225/System_Programming) | 2019년 2학기 UNIX System Call 학습 자료 | POSIX API, C/C++ |
+| [NLP](https://github.com/ehn1225/NLP) | 2023학년도 1학기 자연어처리 학습 자료 | Hugging_Face, pandas, ... |
 
 ## 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehn1225&show_icons=true&theme=radical&hide=issues)
